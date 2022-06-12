@@ -1,0 +1,94 @@
+body {
+    background-color: #EFE9DB;
+    height: 100%;
+}
+
+.overview {
+    width: 100%;
+    height: 50%;
+}
+
+.container {
+    justify-content: center;
+    border-color: black;
+    border: 2px solid black;
+    width: 100%;
+    height: 15%;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font: arial 250% serif;
+}
+
+.section2 {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    margin: 30;
+    border-color: black;
+    border: 2px solid black;
+    border-width: 5px;
+    height: 70%;
+
+
+}
+
+.nomain {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    width: 20%;
+    height: 70%;
+
+}
+.main {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    border-color: black;
+    border-left: 2px solid black;
+    border-width: 5px;
+}
+
+.table {
+    justify-content: center;
+    border-color:antiquewhite;
+    padding: 70px;
+    border-color: black;
+    border: 2px solid black;
+    border-width: 5px;
+
+}
+.title {
+    text-align: center;
+}
+
+.form-group {
+    text-align: center;
+}
+
+.table1 {
+    justify-content: center;
+    border-color: gold;
+    padding: 50px;
+    border-color: black;
+    border: 2px solid black;
+    border-width: 5px;
+
+}
+.button {
+    background-color: #CFC1AB;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
